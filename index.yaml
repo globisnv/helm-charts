@@ -1,0 +1,26 @@
+apiVersion: v1
+entries:
+  keyrock:
+  - apiVersion: v1
+    appVersion: 8.3.3
+    created: "2023-06-05T17:40:06.161581+02:00"
+    description: A Helm chart for running the fiware idm keyrock on kubernetes.
+    digest: cc6db20ad68d6854bbf7e37a3cfd43278e99fc6584229a3818cfa9fe15b3920d
+    home: https://fiware-idm.readthedocs.io/en/latest/
+    icon: https://fiware.github.io/catalogue/img/fiware.png
+    keywords:
+    - fiware
+    - keyrock
+    - idm
+    maintainers:
+    - email: stefan.wiedemann@fiware.org
+      name: wistefan
+    - email: dennis.wendland@fiware.org
+      name: dwendland
+    name: keyrock
+    sources:
+    - https://github.com/globis-nv/fiware-idm
+    urls:
+    - https://globisnv.github.io/helm-charts/keyrock-0.6.2.tgz
+    version: 0.6.2
+generated: "2023-06-05T17:40:06.160196+02:00"
